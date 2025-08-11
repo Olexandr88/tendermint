@@ -10,7 +10,6 @@ _The previous main branch (v0.38.xx) can now be found under "main_backup"_<br/>
 [Blockchain], for short.
 
 [![Version][version-badge]][version-url]
-[![API Reference][api-badge]][api-url]
 [![Go version][go-badge]][go-url]
 [![Discord chat][discord-badge]][discord-url]
 [![License][license-badge]][license-url]
@@ -154,8 +153,6 @@ hiring](mailto:hiring@newtendermint.org)!
 [Blockchain]: https://en.wikipedia.org/wiki/Blockchain
 [version-badge]: https://img.shields.io/github/tag/tendermint/tendermint.svg
 [version-url]: https://github.com/tendermint/tendermint/releases/latest
-[api-badge]: https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
-[api-url]: https://pkg.go.dev/github.com/tendermint/tendermint
 [go-badge]: https://img.shields.io/badge/go-1.18-blue.svg
 [go-url]: https://github.com/moovweb/gvm
 [discord-badge]: https://img.shields.io/discord/669268347736686612.svg
@@ -165,6 +162,6 @@ hiring](mailto:hiring@newtendermint.org)!
 [sg-badge]: https://sourcegraph.com/github.com/tendermint/tendermint/-/badge.svg
 [sg-url]: https://sourcegraph.com/github.com/tendermint/tendermint?badge
 [tests-url]: https://github.com/tendermint/tendermint/actions/workflows/tests.yml
-[tests-badge]: https://github.com/tendermint/tendermint/actions/workflows/tests.yml/badge.svg?branch=main
+[tests-badge]: https://github.com/tendermint/tendermint/actions/workflows/tests.yml/badge.svg
 [lint-badge]: https://github.com/tendermint/tendermint/actions/workflows/lint.yml/badge.svg
 [lint-url]: https://github.com/tendermint/tendermint/actions/workflows/lint.yml
